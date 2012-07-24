@@ -5,3 +5,4 @@ Pedro Magalhães. Sorting with Bialgebras and Distributive Laws. In
 _Workshop on Generic programming_, Sept. 9, 2012, Copenhagen, Denmark.
 
 * original code in `Monomorphic/`
+* polymorphic variant in `Polymorphic/`
